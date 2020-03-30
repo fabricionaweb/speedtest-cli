@@ -4,4 +4,4 @@ LABEL maintainer="Mihoko-Okayami (https://hub.docker.com/r/mihokookayami/speedte
 
 RUN apk add --no-cache speedtest-cli
 
-CMD speedtest-cli
+CMD speedtest
